@@ -1,0 +1,18 @@
+.tab-pane {
+  background: #fafafa none repeat scroll 0 0;
+  border: 1px solid #eee;
+  padding: 20px;
+}
+.formDiv {
+  width: 100%;
+  float: left;
+  margin: 0 0 20px;
+  padding: 0;
+}
+.red{color: red;}
+.table{
+  cursor: pointer;
+}
+.table-hover > tbody > tr:hover {
+    background-color: #e3e3e3;
+}
